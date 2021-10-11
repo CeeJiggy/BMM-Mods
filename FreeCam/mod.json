@@ -1,0 +1,11 @@
+{
+    "Title": "SkipReplay",
+    "Id": "bm.ceejiggy.SkipReplay",
+    "DLLFile": "SkipReplay.dll",
+    "Description": "A mod that skips fallout replays.",
+    "Version": "1.0.0",
+    "Date": "10/11/2021",
+    "Author": "CeeJiggy",
+    "AuthorURL": "https://github.com/CeeJiggy",
+    "UpdateServer": ""
+}
