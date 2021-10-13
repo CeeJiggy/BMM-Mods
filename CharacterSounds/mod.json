@@ -1,0 +1,11 @@
+{
+  "Title": "CharacterSounds",
+  "Id": "bm.ceejiggy.charactersounds",
+  "DLLFile": "CharacterSounds.dll",
+  "Description": "Gives the characters without voices a voice",
+  "Version": "1.0.0",
+  "Date": "10/12/2021",
+  "Author": "CeeJiggy",
+  "AuthorURL": "https://github.com/CeeJiggy",
+  "UpdateServer": ""
+}

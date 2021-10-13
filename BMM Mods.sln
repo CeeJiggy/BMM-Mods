@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterSounds", "CharacterSounds\CharacterSounds.csproj", "{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptDisabler", "..\..\Disable Assist Port\DynamicRoll_Sounds_Mod_SMBBM-master\PromptDisabler.csproj", "{9DA37342-8023-4074-AEEB-A19A95258ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipReplay", "SkipReplay\SkipReplay.csproj", "{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Debug|x64.Build.0 = Debug|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Release|x64.ActiveCfg = Release|Any CPU
+		{361B0AB5-8C60-4E5E-AA27-05AE7E038BF1}.Release|x64.Build.0 = Release|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Debug|x64.Build.0 = Debug|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Release|x64.ActiveCfg = Release|Any CPU
+		{9DA37342-8023-4074-AEEB-A19A95258ECD}.Release|x64.Build.0 = Release|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Debug|x64.Build.0 = Debug|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Release|x64.ActiveCfg = Release|Any CPU
+		{8D456194-8DC5-4C4B-A9CE-AEF50AF59A68}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89F7F72-6150-4982-84F5-7EE1F34B8712}
+	EndGlobalSection
+EndGlobal

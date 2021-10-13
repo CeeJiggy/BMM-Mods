@@ -1,0 +1,11 @@
+{
+  "Title": "Helper Mode Prompt Disabler",
+  "Id": "bm.ceejiggy.promptdisabler",
+  "DLLFile": "NoPrompt.dll",
+  "Description": "A mod that disables the Helper Mode prompt.",
+  "Version": "1.0.0",
+  "Date": "10/10/2021",
+  "Author": "CeeJiggy",
+  "AuthorURL": "https://github.com/CeeJiggy",
+  "UpdateServer": ""
+}
