@@ -9,7 +9,6 @@ namespace CharacterSounds
 {
     internal class CharacterSounds : MonoBehaviour
     {
-
         public CharacterSounds(IntPtr value) : base(value) { }
         public void Awake()
         {
